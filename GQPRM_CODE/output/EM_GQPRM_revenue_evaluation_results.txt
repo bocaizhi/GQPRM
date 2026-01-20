@@ -1,0 +1,27 @@
+
+=== Evaluation at Transaction #1000 ===
+total_revenue: 1293.5
+
+=== Evaluation at Transaction #5000 ===
+total_revenue: 13480.0
+
+=== Evaluation at Transaction #10000 ===
+total_revenue: 33462.5
+
+=== Evaluation at Transaction #20000 ===
+total_revenue: 76458.0
+
+=== Evaluation at Transaction #30000 ===
+total_revenue: 116808.0
+
+=== Evaluation at Transaction #50000 ===
+total_revenue: 191548.0
+
+=== Evaluation at Transaction #80000 ===
+total_revenue: 286686.0
+
+=== Evaluation at Transaction #120000 ===
+total_revenue: 390603.5
+
+=== Evaluation at Transaction #150000 ===
+total_revenue: 461155.5
